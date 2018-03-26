@@ -24,7 +24,7 @@ SCHEME = """<scheme>
                 <description>Name of the domain name of Slack (e.g. example.slack.com).</description>
             </arg>
             <arg name="token">
-                <title>Password</title>
+                <title>Token</title>
                 <description>Slack API Token</description>
             </arg>
         </args>
